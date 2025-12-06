@@ -4,7 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&width=600&lines=Desarrollador+Web+en+Formaci%C3%B3n;Apasionado+por+el+Backend;Construyendo+el+futuro%2C+un+commit+a+la+vez)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+---
+
+### 👨‍💻 Hayson | Backend Developer in Progress
 
 </div>
 
@@ -28,10 +30,11 @@ const hache = {
 <div align="center">
 
 ### 🎯 Actualmente
-**📚 Estudiando** mi Máster en Desarrollo Web  
-**💻 Practicando** desarrollo backend con Python & FastAPI  
-**🔨 Construyendo** proyectos para fortalecer mis skills  
-**🚀 Explorando** arquitectura backend y buenas prácticas
+
+📚 Estudiando mi Máster en Desarrollo Web  
+💻 Practicando desarrollo backend con Python & FastAPI  
+🔨 Construyendo proyectos para fortalecer mis skills  
+🚀 Explorando arquitectura backend y buenas prácticas
 
 </div>
 
@@ -43,11 +46,19 @@ const hache = {
 
 ### 💻 Lenguajes y Tecnologías
 
-<img src="https://skillicons.dev/icons?i=python,html,css,fastapi,git,github,vscode&theme=dark" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 🌱 Aprendiendo
 
-<img src="https://skillicons.dev/icons?i=js,docker,postgres,linux&theme=dark" />
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -57,21 +68,11 @@ const hache = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7" />
+![Hache's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=ffffff" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ffffff" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7)
 
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=ffffff)
 
 </div>
 
@@ -119,23 +120,14 @@ graph LR
 
 ### 💭 Quote del Día
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&quote_category=programming)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ### ⚡ *"El código es poesía, y yo estoy aprendiendo a escribir"*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TU_USERNAME&color=00f7f7&style=flat-square&label=Visitas+al+perfil)
 
 **⭐ Si te gusta mi trabajo, sígueme y dale estrella a mis repos**
-
-</div>
-
----
-
-<div align="center">
-
 
 </div>
