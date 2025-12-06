@@ -203,9 +203,7 @@ print("Cada línea de código es un paso hacia mi objetivo 🎯")
 
 ---
 
-### 🌟 "El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora."
-
-*Lo mismo aplica para aprender a programar* 💻
+### 🌟 El código es poesía, y yo estoy aprendiendo a escribir" 💻
 
 <br>
 
