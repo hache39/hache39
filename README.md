@@ -65,97 +65,154 @@ const hache = {
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-### 🔥 Mis Contribuciones
-
-A medida que voy construyendo proyectos y aprendiendo, mi actividad en GitHub va creciendo.  
-Aquí puedes ver mi progreso y los lenguajes que más utilizo.
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff)](https://github.com/TU_USERNAME)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=ffffff&langs_count=6)](https://github.com/TU_USERNAME)
-
-</div>
-
----
-
-## 🎓 Mi Roadmap de Aprendizaje - Conquer Blocks
+## 🎓 Mi Roadmap - Conquer Blocks Full Stack
 
 <div align="center">
 
 ```mermaid
-%%{init: {'theme':'dark'}}%%
-timeline
-    title Full Stack Developer Journey
-    section Fase 1 - Fundamentos
-        ✅ Python : HTML : CSS
-    section Fase 2 - Frontend
-        🔜 JavaScript : TypeScript : ReactJS
-    section Fase 3 - Backend
-        🔜 SQL : Django : Streamlit
-    section Fase 4 - Deploy
-        🔜 Despliegue : SEO : Producción
+graph TB
+    A[🎯 START: Full Stack Journey] --> B{Fase 1: Fundamentos}
+    B -->|✅ Completado| C[Python]
+    B -->|✅ Completado| D[HTML5]
+    B -->|✅ Completado| E[CSS3]
+    
+    C --> F{Fase 2: Frontend Avanzado}
+    D --> F
+    E --> F
+    F -->|🔜 Próximo| G[JavaScript]
+    F -->|🔜 Próximo| H[TypeScript]
+    F -->|🔜 Próximo| I[React.js]
+    
+    G --> J{Fase 3: Backend Pro}
+    H --> J
+    I --> J
+    J -->|🔜| K[SQL]
+    J -->|🔜| L[Django]
+    J -->|🔜| M[Streamlit]
+    
+    K --> N{Fase 4: Deploy & SEO}
+    L --> N
+    M --> N
+    N -->|🔜| O[Despliegue]
+    N -->|🔜| P[SEO]
+    
+    O --> Q[🚀 Full Stack Developer]
+    P --> Q
+    
+    style A fill:#00f7f7,stroke:#00f7f7,stroke-width:3px,color:#000
+    style C fill:#00ff00,stroke:#00ff00,stroke-width:2px,color:#000
+    style D fill:#00ff00,stroke:#00ff00,stroke-width:2px,color:#000
+    style E fill:#00ff00,stroke:#00ff00,stroke-width:2px,color:#000
+    style G fill:#ff9500,stroke:#ff9500,stroke-width:2px,color:#000
+    style H fill:#ff9500,stroke:#ff9500,stroke-width:2px,color:#000
+    style I fill:#ff9500,stroke:#ff9500,stroke-width:2px,color:#000
+    style K fill:#ff9500,stroke:#ff9500,stroke-width:2px,color:#000
+    style L fill:#ff9500,stroke:#ff9500,stroke-width:2px,color:#000
+    style M fill:#ff9500,stroke:#ff9500,stroke-width:2px,color:#000
+    style O fill:#ff9500,stroke:#ff9500,stroke-width:2px,color:#000
+    style P fill:#ff9500,stroke:#ff9500,stroke-width:2px,color:#000
+    style Q fill:#00f7f7,stroke:#00f7f7,stroke-width:4px,color:#000
+```
+
+**Leyenda:** ✅ Dominado | 🔜 En el horizonte
+
+</div>
+
+---
+
+## 💼 Stack Organizado por Categorías
+
+<div align="center">
+
+### 🎨 Frontend Development
+```
+✅ HTML5 ▰▰▰▰▰▰▰▰▰▰ 100%
+✅ CSS3  ▰▰▰▰▰▰▰▰▰▰ 100%
+🔜 JavaScript ▱▱▱▱▱▱▱▱▱▱ 0%
+🔜 TypeScript ▱▱▱▱▱▱▱▱▱▱ 0%
+🔜 React      ▱▱▱▱▱▱▱▱▱▱ 0%
+```
+
+### ⚙️ Backend Development
+```
+✅ Python  ▰▰▰▰▰▰▰▰▰▰ 100%
+✅ FastAPI ▰▰▰▰▰▰▰▰▱▱ 80%
+🔜 SQL      ▱▱▱▱▱▱▱▱▱▱ 0%
+🔜 Django   ▱▱▱▱▱▱▱▱▱▱ 0%
+```
+
+### 📊 Data & Deployment
+```
+🔜 Streamlit  ▱▱▱▱▱▱▱▱▱▱ 0%
+🔜 Despliegue ▱▱▱▱▱▱▱▱▱▱ 0%
+🔜 SEO        ▱▱▱▱▱▱▱▱▱▱ 0%
 ```
 
 </div>
 
 ---
 
-## 💼 Áreas de Especialización
+## 🔥 Estado Actual del Viaje
 
 <div align="center">
 
-| Categoría | Tecnologías |
-|-----------|-------------|
-| **Frontend** | HTML5, CSS3, JavaScript (próximo), TypeScript (próximo), React (próximo) |
-| **Backend** | Python, FastAPI, Django (próximo), SQL (próximo) |
-| **Data & Viz** | Streamlit (próximo) |
-| **DevOps** | Git, Despliegue (próximo) |
-| **Optimización** | SEO (próximo) |
+| 🎯 Meta Actual | 📚 En Aprendizaje | 🚀 Próximo Paso |
+|:---:|:---:|:---:|
+| Dominar Backend | Python + FastAPI | JavaScript & TS |
 
 </div>
-
----
-
-## 🚀 Enfoque Actual
 
 ```python
-class MiViaje:
-    def __init__(self):
-        self.fase_actual = "Dominando Backend con Python"
-        self.tecnologias_dominadas = ["Python", "HTML", "CSS", "FastAPI"]
-        self.proximo_objetivo = "JavaScript & TypeScript"
-        self.meta_final = "Full Stack Developer"
+# Mi filosofía de código
+def mi_enfoque():
+    habilidades_dominadas = ["Python", "HTML", "CSS", "FastAPI"]
+    proximo_nivel = ["JavaScript", "TypeScript", "React"]
+    meta = "Full Stack Developer"
     
-    def siguiente_paso(self):
-        return "Construir proyectos reales con las tecnologías aprendidas"
+    while meta != "alcanzada":
+        aprender()
+        practicar()
+        construir_proyectos()
+        compartir_conocimiento()
     
-    def mantra(self):
-        return "Cada línea de código es un paso hacia mi objetivo 🎯"
+    return "¡Objetivo cumplido! 🎉"
+
+# Mantra del día
+print("Cada línea de código es un paso hacia mi objetivo 🎯")
 ```
 
 ---
 
-## 📫 Conecta Conmigo
+## 📫 Hablemos
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0d1117)](https://github.com/TU_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
+### Encuentra mi código aquí 👇
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
+
+<br>
+
+### 💭 Quote Random de Programación
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br>
 
 ---
 
-### ⚡ *"El mejor momento para aprender fue ayer. El segundo mejor momento es ahora."*
+### 🌟 "El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora."
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USERNAME&color=00f7f7&style=flat-square&label=Visitas+al+perfil)
+*Lo mismo aplica para aprender a programar* 💻
 
----
+<br>
 
-💡 **Tip:** Si encuentras útil alguno de mis proyectos, ¡dale una ⭐!  
-🌱 Siempre abierto a colaborar y aprender de la comunidad
+![Visitor Count](https://profile-counter.glitch.me/TU_USERNAME/count.svg)
+
+<br>
+
+**💡 Si algo de mi perfil te resulta útil, sígueme y dale ⭐ a mis repos**
 
 </div>
