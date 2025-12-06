@@ -2,11 +2,11 @@
 
 # `<HACHE/>`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&width=600&lines=Desarrollador+Web+en+Formaci%C3%B3n;Apasionado+por+el+Backend;Construyendo+el+futuro%2C+un+commit+a+la+vez)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&width=650&lines=Full+Stack+Developer+en+Formaci%C3%B3n;Apasionado+por+Backend+y+APIs;Construyendo+el+futuro%2C+un+commit+a+la+vez)](https://git.io/typing-svg)
 
 ---
 
-### 👨‍💻 Hayson | Backend Developer in Progress
+### 👨‍💻 Hayson | Full Stack Developer in Progress
 
 </div>
 
@@ -19,10 +19,10 @@ const hache = {
     nombre: "Hayson",
     aka: "Hache",
     ubicacion: "Menorca, ES 🇪🇸",
-    educacion: "Máster en Desarrollo Web",
-    enfoque: ["Backend Development", "API Design", "Clean Code"],
-    estadoActual: "Aprendiendo y construyendo proyectos",
-    objetivo: "Convertirme en Full Stack Developer",
+    educacion: "Máster Full Stack Development @ Conquer Blocks",
+    especialidad: "Backend Development & API Architecture",
+    estadoActual: "Dominando Python, HTML, CSS | Próximo: JavaScript",
+    objetivo: "Convertirme en Full Stack Developer completo",
     lema: "Code, Learn, Repeat 🔁"
 };
 ```
@@ -31,8 +31,9 @@ const hache = {
 
 ### 🎯 Actualmente
 
-📚 Estudiando mi Máster en Desarrollo Web  
-💻 Practicando desarrollo backend con Python & FastAPI  
+📚 Cursando **Máster Full Stack** en Conquer Blocks  
+💻 Dominando **Python, HTML, CSS**  
+🔜 Próximamente: **JavaScript, TypeScript, React**  
 🔨 Construyendo proyectos para fortalecer mis skills  
 🚀 Explorando arquitectura backend y buenas prácticas
 
@@ -44,21 +45,22 @@ const hache = {
 
 <div align="center">
 
-### 💻 Lenguajes y Tecnologías
+### ✅ Tecnologías Dominadas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🌱 Aprendiendo
+### 🔜 Próximas en el Roadmap
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
@@ -68,39 +70,69 @@ const hache = {
 
 <div align="center">
 
-![Hache's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7" alt="GitHub Streak" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=ffffff)
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=ffffff&langs_count=8" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🎯 Mi Viaje de Aprendizaje
+## 🎓 Mi Roadmap de Aprendizaje - Conquer Blocks
 
 <div align="center">
 
 ```mermaid
-graph LR
-    A[🎓 Fundamentos Web] --> B[🐍 Python]
-    B --> C[⚡ FastAPI]
-    C --> D[🗄️ Bases de Datos]
-    D --> E[🐳 Docker]
-    E --> F[☁️ Cloud Deploy]
-    F --> G[🚀 Full Stack]
-    
-    style A fill:#1a1b27,stroke:#00f7f7,stroke-width:2px,color:#fff
-    style B fill:#1a1b27,stroke:#00f7f7,stroke-width:2px,color:#fff
-    style C fill:#1a1b27,stroke:#00f7f7,stroke-width:2px,color:#fff
-    style D fill:#1a1b27,stroke:#00f7f7,stroke-width:2px,color:#fff
-    style E fill:#1a1b27,stroke:#00aaf7,stroke-width:2px,color:#fff
-    style F fill:#1a1b27,stroke:#00aaf7,stroke-width:2px,color:#fff
-    style G fill:#1a1b27,stroke:#00aaf7,stroke-width:2px,color:#fff
+%%{init: {'theme':'dark'}}%%
+timeline
+    title Full Stack Developer Journey
+    section Fase 1 - Fundamentos
+        ✅ Python : HTML : CSS
+    section Fase 2 - Frontend
+        🔜 JavaScript : TypeScript : ReactJS
+    section Fase 3 - Backend
+        🔜 SQL : Django : Streamlit
+    section Fase 4 - Deploy
+        🔜 Despliegue : SEO : Producción
 ```
 
 </div>
+
+---
+
+## 💼 Áreas de Especialización
+
+<div align="center">
+
+| Categoría | Tecnologías |
+|-----------|-------------|
+| **Frontend** | HTML5, CSS3, JavaScript (próximo), TypeScript (próximo), React (próximo) |
+| **Backend** | Python, FastAPI, Django (próximo), SQL (próximo) |
+| **Data & Viz** | Streamlit (próximo) |
+| **DevOps** | Git, Despliegue (próximo) |
+| **Optimización** | SEO (próximo) |
+
+</div>
+
+---
+
+## 🚀 Enfoque Actual
+
+```python
+class MiViaje:
+    def __init__(self):
+        self.fase_actual = "Dominando Backend con Python"
+        self.tecnologias_dominadas = ["Python", "HTML", "CSS", "FastAPI"]
+        self.proximo_objetivo = "JavaScript & TypeScript"
+        self.meta_final = "Full Stack Developer"
+    
+    def siguiente_paso(self):
+        return "Construir proyectos reales con las tecnologías aprendidas"
+    
+    def mantra(self):
+        return "Cada línea de código es un paso hacia mi objetivo 🎯"
+```
 
 ---
 
@@ -112,22 +144,15 @@ graph LR
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
 
-</div>
-
 ---
 
-<div align="center">
-
-### 💭 Quote del Día
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### ⚡ *"El código es poesía, y yo estoy aprendiendo a escribir"*
+### ⚡ *"El mejor momento para aprender fue ayer. El segundo mejor momento es ahora."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TU_USERNAME&color=00f7f7&style=flat-square&label=Visitas+al+perfil)
 
-**⭐ Si te gusta mi trabajo, sígueme y dale estrella a mis repos**
+---
+
+💡 **Tip:** Si encuentras útil alguno de mis proyectos, ¡dale una ⭐!  
+🌱 Siempre abierto a colaborar y aprender de la comunidad
 
 </div>
