@@ -20,7 +20,6 @@ const hache = {
     aka: "Hache",
     ubicacion: "Menorca, ES 🇪🇸",
     educacion: "Máster Full Stack Development @ Conquer Blocks",
-    especialidad: "Backend Development & API Architecture",
     estadoActual: "Dominando Python, HTML, CSS | Próximo: JavaScript",
     objetivo: "Convertirme en Full Stack Developer completo",
     lema: "Code, Learn, Repeat 🔁"
@@ -66,14 +65,18 @@ const hache = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7" alt="GitHub Streak" />
+### 🔥 Mis Contribuciones
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=ffffff&langs_count=8" alt="Top Languages" />
+A medida que voy construyendo proyectos y aprendiendo, mi actividad en GitHub va creciendo.  
+Aquí puedes ver mi progreso y los lenguajes que más utilizo.
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=ffffff)](https://github.com/TU_USERNAME)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=ffffff&langs_count=6)](https://github.com/TU_USERNAME)
 
 </div>
 
