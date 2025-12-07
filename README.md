@@ -2,7 +2,7 @@
 
 # `<HACHE/>`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&width=650&lines=Full+Stack+Developer+en+Formaci%C3%B3n;Apasionado+por+Backend+y+APIs;Construyendo+el+futuro%2C+un+commit+a+la+vez)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=false&width=650&lines=Full+Stack+Developer+en+Formaci%C3%B3n;Apasionado+por+Backend;Construyendo+el+futuro%2C+un+commit+a+la+vez)](https://git.io/typing-svg)
 
 ---
 
